@@ -15,6 +15,11 @@ public class jonfunMath {
             System.out.println("ulige tal " + num);
         }
 
+        if (num == 13){
+            System.out.println("Lucky number " + num + "!");
+        }
+
+
 
 
     }
